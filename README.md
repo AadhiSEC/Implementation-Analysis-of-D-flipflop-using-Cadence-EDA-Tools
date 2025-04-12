@@ -56,6 +56,7 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 ![WhatsApp Image 2025-04-01 at 10 56 58_d7a29a16](https://github.com/user-attachments/assets/5e718625-0ca3-45ea-b641-ae1477103c6a)
 
 #### Negative latch
+![WhatsApp Image 2025-04-01 at 16 51 09_8eab22d4](https://github.com/user-attachments/assets/d8ec72ad-cb67-4812-840d-39b9ae7bc64c)
 
 
 ## Results
